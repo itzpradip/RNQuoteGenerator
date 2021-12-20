@@ -12,4 +12,4 @@ I have created a tutorial video on YouTube on how to create this app. You can ch
 
 ## Screenshots
 
-![](./quote-demo-2.png)
+![iPhone Demo](./quote-demo-2.png)
